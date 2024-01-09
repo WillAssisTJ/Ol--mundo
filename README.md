@@ -1,3 +1,19 @@
+  {/*
+          Na rota "/", a estrutra a ser renderizada é:
+
+          <PaginaPadrao>
+            <Inicio/>
+          </PaginaPadrao>
+
+           Na rota "/sobremim", a estrutra a ser renderizada é:
+
+          <PaginaPadrao>
+            <SobreMim/>
+          </PaginaPadrao>
+
+        */}
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
